@@ -1,4 +1,4 @@
 <?php
-echo "Vu test github"
-
+echo "Vu test github";
+sua index;
 ?>
